@@ -1,4 +1,6 @@
-## README
+[![Dependency Status](https://gemnasium.com/badges/github.com/vinpereira/nodejs-webscraping.svg)](https://gemnasium.com/github.com/vinpereira/nodejs-webscraping)
+
+# README
 This is a simple code for access a Brazilian Holidays API (for every states and cities) and save its response in JSON files.
 
 The next step is to populate a graphDB (like OrientDB) to use the JSON files info.
